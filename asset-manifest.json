@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/s-mounir.github.io/ferments-bakery/static/css/main.66cc1ffe.css",
+    "main.js": "/s-mounir.github.io/ferments-bakery/static/js/main.0383cb69.js",
+    "index.html": "/s-mounir.github.io/ferments-bakery/index.html",
+    "main.66cc1ffe.css.map": "/s-mounir.github.io/ferments-bakery/static/css/main.66cc1ffe.css.map",
+    "main.0383cb69.js.map": "/s-mounir.github.io/ferments-bakery/static/js/main.0383cb69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66cc1ffe.css",
+    "static/js/main.0383cb69.js"
+  ]
+}
